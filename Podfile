@@ -5,7 +5,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 target 'ShowTracker' do
 
-pod 'AFNetworking', '2.2.1'
+pod 'AVOSCloudUI', '2.2.1'
 
 pod 'SAMCategories', '0.5.2'
 
